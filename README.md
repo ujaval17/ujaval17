@@ -1,12 +1,12 @@
-<h1 align="center">'👋 Hi, I'm Ujaval Savaliya /h1>
+<h1 align="center">👋 Hi there, I'm Ujaval Savaliya </h1>
 
 ###
 
-<h3 align="left">'🧑‍💻 About Me</h3>
+<h3 align="left">🧑‍💻 About Me</h3>
 
 ###
 
-<p>I'm Ujaval Savaliya As Software Engineer from India</p>
+<p>I'm Software Engineer from India</p>
 
 <p>- 🔭 I’m currently Improving my skill.</p>
 <p>- 🌱 I’m currently learning Spring Boot.</p>
