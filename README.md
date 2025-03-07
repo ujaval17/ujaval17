@@ -6,7 +6,12 @@
 
 ###
 
-<p align="left">I'm a skilled Software Engineer , proficient java Backend Developer and Full - Stack Enthusiast passionate about building scalable , efficent and High-performance web-sites.</p>
+<p>I'm Ujaval Savaliya As Software Engineer from India</p>
+
+<p>- 🔭 I’m currently Improving my skill.</p>
+<p>- 🌱 I’m currently learning Spring Boot.</p>
+<p>- 💬 Ask me about Java / Javascript.</p>
+<p>- 📫 How to reach me: ujavalsavaliya@gmail.com</p>
 
 ###
 
