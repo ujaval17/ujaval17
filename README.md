@@ -57,7 +57,6 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="35" alt="redux logo"  />
   <img width="5" />
-###
 
  <div align="left">
   <h4 align = "left"> 🔍 DataBase :  </h4>
