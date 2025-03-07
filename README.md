@@ -8,7 +8,7 @@
 
 <p>I'm Software Engineer</p>
 
-<p>- 🔭 I’m currently Improving my skills.</p>
+<p>- 🔭 I’m currently Improving my skills and Make Real World Project.</p>
 <p>- 🌱 I’m currently learning Spring Boot.</p>
 <p>- 💬 Ask me about Java / Javascript / API.</p>
 <p>- 📫 How to reach me: ujavalsavaliya@gmail.com</p>
@@ -60,9 +60,9 @@
 
  <div align="left">
   <h4 align = "left"> 🔍 DataBase :  </h4>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="35" alt="mongodb logo"  />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" height="35" alt="mongodb logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="35" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" height="35" alt="mysql logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" height="35" alt="postgres logo"  />
   <img width="5" />
