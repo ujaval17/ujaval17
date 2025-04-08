@@ -20,7 +20,7 @@
 ###
 
 <div align="left">
-  <h4 align = "left"> 🔗Backend developement : </h4>
+  <h3 align = "center"> 🔗Backend developement : </h3>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" height="35" alt="spring boot logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" height="35" alt="java logo"  />
@@ -40,7 +40,7 @@
 ###
 
 <div align="left">
-  <h4 align = "left"> 🏗️ Frontend developement :  </h4>
+  <h3 align = "center"> 🏗️ Frontend developement :  </h3>
   <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" height="35" alt="Angular logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" height="35" alt="react logo"  />
@@ -59,7 +59,7 @@
   <img width="5" />
 
  <div align="left">
-  <h4 align = "left"> 🔍 DataBase :  </h4>
+  <h3 align = "center"> 🔍 DataBase :  </h3>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" height="35" alt="mongodb logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" height="35" alt="mysql logo"  />
@@ -72,7 +72,7 @@
 ###
 
  <div align="left">
-   <h4 align = "left"> 🛠️ Other Tools :  </h4>
+   <h3 align = "center"> 🛠️ Other Tools :  </h3>
   <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" height="35" alt="json logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff" height="35" alt="hibernate logo"  />
@@ -119,10 +119,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/dhruv-dankhara/" target="_blank">
+  <a href="https://www.linkedin.com/in/ujaval-savaliya-b90056327/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/dhruvvdankhara" target="_blank">
+  <a href="https://x.com/UjavalSavaliya?t=OZSr8br438LjVbIKG0D8Gg&s=09" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
@@ -130,7 +130,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.hackerrank.com/profile/dhruvdankhara" target="_blank">
+  <a href="https://www.hackerrank.com/profile/Ujaval_savaliya" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="54" height="34" alt="hackerrank logo"  />
   </a>
   <a href="https://bento.me/dhruvdankhara" target="_blank">
