@@ -122,7 +122,7 @@
   <a href="https://www.linkedin.com/in/ujaval-savaliya-b90056327/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/UjavalSavaliya?t=OZSr8br438LjVbIKG0D8Gg&s=09" target="_blank">
+  <a href="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" target="_blank">
     <img src="https://uxwing.com/x-social-media-logo-icon/" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
@@ -133,8 +133,8 @@
   <a href="https://www.hackerrank.com/profile/Ujaval_savaliya" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="54" height="34" alt="hackerrank logo"  />
   </a>
-  <a href="https://weworkremotely.com/job-seekers/profile/848118/" target="_blank">
-    <img src="https://brandfetch.com/weworkremotely.com" width="54" height="34" alt="linktree logo"  />
+  <a href="https://mail.google.com/mail/u/0/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="34" alt="hackerrank logo"  />
   </a>
 </div>
 
